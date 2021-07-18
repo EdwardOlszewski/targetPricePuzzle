@@ -1,0 +1,25 @@
+{
+  "Target Price": "$17.27",
+  "Items": [
+    {
+      "Name": "salmon",
+      "Price": "$10.37"
+    },
+    {
+      "Name": "side fries",
+      "Price": "$3.35"
+    },
+    {
+      "Name": "side salad",
+      "Price": "$3.55"
+    },
+    {
+      "Name": "steak",
+      "Price": "$12.25"
+    },
+    {
+      "Name": "sampler platter",
+      "Price": "$6.50"
+    }
+  ]
+}

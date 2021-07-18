@@ -1,0 +1,21 @@
+{
+  "Target Price": "$8.00",
+  "Items": [
+    {
+      "Name": "burgers",
+      "Price": "$2.15"
+    },
+    {
+      "Name": "french fries",
+      "Price": "$4.00"
+    },
+    {
+      "Name": "chicken wings",
+      "Price": "$3.55"
+    },
+    {
+      "Name": "fish and chips",
+      "Price": "$4.00"
+    }
+  ]
+}
